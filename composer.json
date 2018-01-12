@@ -1,0 +1,12 @@
+{
+    "name": "shuo/composer-demo",
+    "authors": [
+        {
+            "name": "李硕",
+            "email": "598684053@qq.com"
+        }
+    ],
+    "require": {
+        "php-amqplib/php-amqplib":">=2.6.1"
+    }
+}

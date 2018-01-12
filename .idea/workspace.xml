@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1a081b0-8ef0-4850-9ab9-9f0f21466926" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>5672</find>
+      <find>queue_declare</find>
+      <find>basic_consume</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/php-amqplib" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php" />
+        <option value="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/spec/amqp-rabbitmq-0.8.json" />
+        <option value="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/spec/amqp-rabbitmq-0.9.1.json" />
+        <option value="$PROJECT_DIR$/php-amqplib/demo/config.php" />
+        <option value="$PROJECT_DIR$/send.php" />
+        <option value="$PROJECT_DIR$/work.php" />
+        <option value="$PROJECT_DIR$/exchange-1.php" />
+        <option value="$PROJECT_DIR$/exchange-four-publish.php" />
+        <option value="$PROJECT_DIR$/exchange-four-consumer.php" />
+        <option value="$PROJECT_DIR$/exchange-one-publish.php" />
+        <option value="$PROJECT_DIR$/exchange-one-consumer.php" />
+        <option value="$PROJECT_DIR$/exchange-three-consumer.php" />
+        <option value="$PROJECT_DIR$/exchange-three-publish.php" />
+        <option value="$PROJECT_DIR$/exchange-topic-publish.php" />
+        <option value="$PROJECT_DIR$/exchange-topic-consumer.php" />
+        <option value="$PROJECT_DIR$/RPC-servier.php" />
+        <option value="$PROJECT_DIR$/RPC-client.php" />
+        <option value="$PROJECT_DIR$/README" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1438" />
+    <option name="y" value="23" />
+    <option name="width" value="1436" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Blade files</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code StylePHP</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Ini Files</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Type compatibilityPHP</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
+            <id>UnusedPHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="composerDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="composerDemo" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="composerDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="background.image.plus" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1a081b0-8ef0-4850-9ab9-9f0f21466926" name="Default" comment="" />
+      <created>1514948151635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514948151635</updated>
+      <workItem from="1514948154379" duration="15001000" />
+      <workItem from="1514973635930" duration="636000" />
+      <workItem from="1515026997384" duration="1252000" />
+      <workItem from="1515034663561" duration="2218000" />
+      <workItem from="1515113772435" duration="9264000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="28371000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1438" y="23" width="1436" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19846797" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2723971" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39951575" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php</url>
+          <line>65</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php</url>
+          <line>203</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php</url>
+          <line>328</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php</url>
+          <line>331</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php</url>
+          <line>204</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/RPC-client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="33" column="11" lean-forward="true" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+          <folding>
+            <marker date="1515134413000" expanded="false" signature="9:45" ph=" Date: 2018/1/3 ..." />
+            <marker date="1515134413000" expanded="true" signature="102:181" ph="..." />
+            <marker date="1515134413000" expanded="true" signature="207:1448" ph="{...}" />
+            <marker date="1515134413000" expanded="true" signature="366:762" ph="{...}" />
+            <marker date="1515134413000" expanded="true" signature="801:926" ph="{...}" />
+            <marker date="1515134413000" expanded="true" signature="868:919" ph="..." />
+            <marker date="1515134413000" expanded="true" signature="956:1446" ph="{...}" />
+            <marker date="1515134413000" expanded="true" signature="1354:1399" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exchange-four-consumer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+          <folding>
+            <marker date="1515027158000" expanded="false" signature="9:45" ph=" Date: 2018/1/3 ..." />
+            <marker date="1515027158000" expanded="false" signature="102:181" ph="..." />
+            <marker date="1515027158000" expanded="true" signature="683:782" ph="..." />
+            <marker date="1515027158000" expanded="true" signature="819:885" ph="..." />
+            <marker date="1515027158000" expanded="true" signature="972:1049" ph="..." />
+            <marker date="1515027158000" expanded="true" signature="1257:1280" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exchange-four-consumer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <marker date="1515027158000" expanded="false" signature="9:45" ph=" Date: 2018/1/3 ..." />
+            <marker date="1515027158000" expanded="false" signature="102:181" ph="..." />
+            <marker date="1515027158000" expanded="true" signature="683:782" ph="..." />
+            <marker date="1515027158000" expanded="true" signature="819:885" ph="..." />
+            <marker date="1515027158000" expanded="true" signature="972:1049" ph="..." />
+            <marker date="1515027158000" expanded="true" signature="1257:1280" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="312">
+            <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/spec/amqp-rabbitmq-0.8.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/spec/amqp-rabbitmq-0.9.1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AMQPStreamConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="49" column="20" lean-forward="true" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="57" column="20" lean-forward="false" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding>
+            <marker date="1501797981000" expanded="false" signature="41:238" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="273:13027" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="1036:1260" ph=" @param string $host ..." />
+            <marker date="1501797981000" expanded="true" signature="1467:2483" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="1543:1657" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="2172:2235" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="2243:2477" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="2408:2467" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="2493:2519" ph=" @return bool ..." />
+            <marker date="1501797981000" expanded="true" signature="2565:2755" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="2764:2898" ph=" Sets up the stream connection ..." />
+            <marker date="1501797981000" expanded="true" signature="2930:4862" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="2997:3110" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="3186:3445" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="3234:3434" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="3475:3543" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="3616:3866" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="3685:3817" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="3935:4121" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="4004:4096" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="4277:4353" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="4465:4707" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="4628:4697" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="4715:4773" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="4807:4855" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="4871:4906" ph=" Reconnects the socket ..." />
+            <marker date="1501797981000" expanded="true" signature="4940:5002" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="5011:5121" ph=" @param int $len ..." />
+            <marker date="1501797981000" expanded="true" signature="5154:6844" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="5266:6451" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="5332:5429" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="5511:5586" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="5616:5696" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="5772:5857" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="5893:6360" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="5946:6320" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="6063:6184" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="6192:6302" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="6503:6770" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="6572:6745" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="6853:7028" ph=" @param string $data ..." />
+            <marker date="1501797981000" expanded="true" signature="7063:8660" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="7168:8607" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="7214:7311" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="7388:7862" ph="//..." />
+            <marker date="1501797981000" expanded="true" signature="7880:7989" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="8019:8099" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="8175:8258" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="8314:8411" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="8451:8563" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="8669:8973" ph=" Internal error handler to deal with stream and socket errors that need to be ignored ..." />
+            <marker date="1501797981000" expanded="true" signature="9066:9710" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="9285:9357" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="9491:9579" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="9719:9778" ph=" Heartbeat logic: check connection health here ..." />
+            <marker date="1501797981000" expanded="true" signature="9821:10413" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="9957:10406" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="10186:10235" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="10341:10396" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="10422:10461" ph=" Sends a heartbeat message ..." />
+            <marker date="1501797981000" expanded="true" signature="10504:10711" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="10740:10930" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="10786:10828" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="10939:10969" ph=" @return resource ..." />
+            <marker date="1501797981000" expanded="true" signature="11004:11044" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="11053:11083" ph=" @return resource ..." />
+            <marker date="1501797981000" expanded="true" signature="11117:11165" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="11174:11252" ph=" @param int $sec ..." />
+            <marker date="1501797981000" expanded="true" signature="11294:11859" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="11483:11539" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="11613:11696" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="11726:11794" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="11868:11895" ph=" @return mixed ..." />
+            <marker date="1501797981000" expanded="true" signature="11932:12108" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="12117:12176" ph=" @throws \PhpAmqpLib\Exception\AMQPIOException ..." />
+            <marker date="1501797981000" expanded="true" signature="12220:12717" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="12282:12404" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="12472:12591" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="12726:12753" ph=" @return $this ..." />
+            <marker date="1501797981000" expanded="true" signature="12794:12859" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="12868:12895" ph=" @return $this ..." />
+            <marker date="1501797981000" expanded="true" signature="12937:13025" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/Protocol/Wait091.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="82" column="20" lean-forward="false" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="209" column="28" lean-forward="true" selection-start-line="209" selection-start-column="28" selection-end-line="209" selection-end-column="28" />
+          <folding>
+            <marker date="1501797981000" expanded="false" signature="44:463" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="513:27009" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="584:1248" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="822:1242" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="858:1232" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="2826:3001" ph=" Circular buffer to speed up prepare_content(). ..." />
+            <marker date="1501797981000" expanded="true" signature="3153:3455" ph=" @param string $user ..." />
+            <marker date="1501797981000" expanded="true" signature="3721:4911" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="4170:4613" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="4272:4390" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="4278:4389" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="4621:4672" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="4866:4905" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="4921:4962" ph=" Connects to the AMQP server ..." />
+            <marker date="1501797981000" expanded="true" signature="4997:6923" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="5017:6698" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="5098:6687" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="5872:6097" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="5905:6078" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="5911:6077" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="6201:6470" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="6290:6395" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="6723:6916" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="6932:7072" ph=" Reconnects using the original connection settings. ..." />
+            <marker date="1501797981000" expanded="true" signature="7106:7428" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="7437:7530" ph=" Cloning will use the old properties to make a new connection to the same server ..." />
+            <marker date="1501797981000" expanded="true" signature="7562:7658" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="7692:7786" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="7738:7779" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="7795:7848" ph=" Attempts to close the connection safely ..." />
+            <marker date="1501797981000" expanded="true" signature="7885:8084" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="7905:8015" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="7960:8005" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="8040:8077" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="8093:8167" ph=" @param int $sec ..." />
+            <marker date="1501797981000" expanded="true" signature="8213:8277" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="8286:8456" ph=" Allows to not close the connection ..." />
+            <marker date="1501797981000" expanded="true" signature="8515:8577" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="8615:8794" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="8710:8787" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="8833:8984" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="8931:8977" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="8993:9019" ph=" @param $data ..." />
+            <marker date="1501797981000" expanded="true" signature="9054:9285" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="9119:9170" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="9205:9278" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="9320:9431" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="9440:9523" ph=" @return int ..." />
+            <marker date="1501797981000" expanded="true" signature="9567:9796" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="9628:9725" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="9675:9715" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="9805:10021" ph=" @param string $channel ..." />
+            <marker date="1501797981000" expanded="true" signature="10138:10297" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="10306:10616" ph=" Returns a new AMQPWriter or mutates the provided $pkt ..." />
+            <marker date="1501797981000" expanded="true" signature="10736:12509" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="10852:10985" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="11052:11676" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="11475:11666" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="12131:12480" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="12518:12648" ph=" @param string $channel ..." />
+            <marker date="1501797981000" expanded="true" signature="12747:12947" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="12956:13186" ph=" Returns a new AMQPWriter or mutates the provided $pkt ..." />
+            <marker date="1501797981000" expanded="true" signature="13288:13878" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="13337:13385" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="13887:14131" ph=" Waits for a frame from the server ..." />
+            <marker date="1501797981000" expanded="true" signature="14181:15765" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="14222:14364" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="14478:15349" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="14569:14675" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="14870:14968" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="15384:15470" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="15551:15702" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="15603:15690" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="15774:15944" ph=" Waits for a frame from the server destined for a particular channel. ..." />
+            <marker date="1501797981000" expanded="true" signature="16009:17733" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="16119:17726" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="16296:16773" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="16415:16732" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="16504:16714" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="16781:17716" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="16835:16909" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="16928:17185" ph="//..." />
+            <marker date="1501797981000" expanded="true" signature="17247:17372" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="17650:17702" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="17742:17940" ph=" Fetches a channel object identified by the numeric channel_id, or ..." />
+            <marker date="1501797981000" expanded="true" signature="17990:18321" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="18047:18105" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="18330:18499" ph=" Requests a connection close ..." />
+            <marker date="1501797981000" expanded="true" signature="18589:19267" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="18638:18701" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="18771:18805" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="18925:19039" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="19180:19259" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="19186:19258" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="19276:19384" ph=" @param AMQPReader $reader ..." />
+            <marker date="1501797981000" expanded="true" signature="19446:19776" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="19785:19826" ph=" Confirms a connection close ..." />
+            <marker date="1501797981000" expanded="true" signature="19864:20025" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="19904:19990" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="20034:20112" ph=" Confirm a connection close ..." />
+            <marker date="1501797981000" expanded="true" signature="20164:20203" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="20212:20336" ph=" @param string $virtual_host ..." />
+            <marker date="1501797981000" expanded="true" signature="20420:20922" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="20675:20746" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="20796:20879" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="20931:21019" ph=" Signals that the connection is ready ..." />
+            <marker date="1501797981000" expanded="true" signature="21070:21215" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="21224:21339" ph=" Asks the client to use a different server ..." />
+            <marker date="1501797981000" expanded="true" signature="21391:21690" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="21523:21659" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="21531:21658" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="21699:21779" ph=" Security mechanism challenge ..." />
+            <marker date="1501797981000" expanded="true" signature="21829:21885" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="21894:21973" ph=" Security mechanism response ..." />
+            <marker date="1501797981000" expanded="true" signature="22021:22164" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="22173:22254" ph=" Starts connection negotiation ..." />
+            <marker date="1501797981000" expanded="true" signature="22303:22824" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="22643:22816" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="22833:22979" ph=" @param AMQPTable|array $clientProperties ..." />
+            <marker date="1501797981000" expanded="true" signature="23066:23339" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="23348:23437" ph=" Proposes connection tuning parameters ..." />
+            <marker date="1501797981000" expanded="true" signature="23485:23928" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="23543:23589" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="23642:23686" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="23777:23838" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="23937:24086" ph=" Negotiates connection tuning parameters ..." />
+            <marker date="1501797981000" expanded="true" signature="24159:24419" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="24428:24458" ph=" @return SocketIO ..." />
+            <marker date="1501797981000" expanded="true" signature="24492:24543" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="24552:24604" ph=" @return \PhpAmqpLib\Wire\IO\AbstractIO ..." />
+            <marker date="1501797981000" expanded="true" signature="24637:24675" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="24684:24776" ph=" Handles connection blocked notifications ..." />
+            <marker date="1501797981000" expanded="true" signature="24838:25007" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="25016:25110" ph=" Handles connection unblocked notifications ..." />
+            <marker date="1501797981000" expanded="true" signature="25174:25305" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="25314:25450" ph=" Sets a handler which is called whenever a connection.block is sent from the server ..." />
+            <marker date="1501797981000" expanded="true" signature="25512:25577" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="25586:25722" ph=" Sets a handler which is called whenever a connection.block is sent from the server ..." />
+            <marker date="1501797981000" expanded="true" signature="25786:25853" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="25862:25929" ph=" Gets the connection status ..." />
+            <marker date="1501797981000" expanded="true" signature="25965:26020" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="26029:26108" ph=" Set the connection status ..." />
+            <marker date="1501797981000" expanded="true" signature="26163:26227" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="26236:26279" ph=" Closes all available channels ..." />
+            <marker date="1501797981000" expanded="true" signature="26320:26693" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="26382:26686" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="26488:26527" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="26546:26594" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="26619:26676" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="26702:26798" ph=" Should the connection be attempted during construction? ..." />
+            <marker date="1501797981000" expanded="true" signature="26841:26874" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="26883:26910" ph=" @return array ..." />
+            <marker date="1501797981000" expanded="true" signature="26954:27007" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-amqplib/composer.json" />
+    <entry file="file://$PROJECT_DIR$/php-amqplib/.scrutinizer.yml" />
+    <entry file="file://$PROJECT_DIR$/php-amqplib/demo/config.php" />
+    <entry file="file://$PROJECT_DIR$/send.php" />
+    <entry file="file://$PROJECT_DIR$/work.php" />
+    <entry file="file://$PROJECT_DIR$/php-amqplib/PhpAmqpLib/Channel/AMQPChannel.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="914" column="15" lean-forward="false" selection-start-line="914" selection-start-column="9" selection-end-line="914" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-amqplib/PhpAmqpLib/Message/AMQPMessage.php" />
+    <entry file="file://$PROJECT_DIR$/php-amqplib/PhpAmqpLib/Wire/GenericContent.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Message/AMQPMessage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="50" column="21" lean-forward="false" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exchange-four-consumer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding>
+            <marker date="1515027158000" expanded="false" signature="9:45" ph=" Date: 2018/1/3 ..." />
+            <marker date="1515027158000" expanded="false" signature="102:181" ph="..." />
+            <marker date="1515027158000" expanded="true" signature="683:782" ph="..." />
+            <marker date="1515027158000" expanded="true" signature="819:885" ph="..." />
+            <marker date="1515027158000" expanded="true" signature="972:1049" ph="..." />
+            <marker date="1515027158000" expanded="true" signature="1257:1280" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AMQPChannel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="609" column="20" lean-forward="false" selection-start-line="609" selection-start-column="20" selection-end-line="609" selection-end-column="20" />
+          <folding>
+            <marker date="1501797981000" expanded="false" signature="41:289" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="332:39634" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="690:969" ph=" These parameters will be passed to function in case of basic_return: ..." />
+            <marker date="1501797981000" expanded="true" signature="1155:1328" ph=" If the channel is in confirm_publish mode this array will store all published messages ..." />
+            <marker date="1501797981000" expanded="true" signature="1544:1760" ph=" Circular buffer to speed up both basic_publish() and publish_batch(). ..." />
+            <marker date="1501797981000" expanded="true" signature="1799:1866" ph=" Maximal size of $publish_cache ..." />
+            <marker date="1501797981000" expanded="true" signature="1914:2077" ph=" @param \PhpAmqpLib\Connection\AbstractConnection $connection ..." />
+            <marker date="1501797981000" expanded="true" signature="2165:2860" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="2206:2277" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="2731:2769" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="2794:2853" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="2869:2950" ph=" Tear down this object, after we've agreed to close with the server. ..." />
+            <marker date="1501797981000" expanded="true" signature="2986:3203" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="3034:3110" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="3212:3672" ph=" Only for AMQP0.8.0 ..." />
+            <marker date="1501797981000" expanded="true" signature="3720:3945" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="3954:4114" ph=" Request a channel close ..." />
+            <marker date="1501797981000" expanded="true" signature="4204:4748" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="4280:4364" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="4447:4561" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="4664:4740" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="4670:4739" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="4757:4862" ph=" @param AMQPReader $reader ..." />
+            <marker date="1501797981000" expanded="true" signature="4910:5284" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="5293:5410" ph=" Confirm a channel close ..." />
+            <marker date="1501797981000" expanded="true" signature="5461:5500" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="5509:5604" ph=" Enables/disables flow from peer ..." />
+            <marker date="1501797981000" expanded="true" signature="5640:5919" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="5836:5911" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="5842:5910" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="5928:5967" ph=" @param AMQPReader $reader ..." />
+            <marker date="1501797981000" expanded="true" signature="6014:6112" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="6121:6154" ph=" @param bool $active ..." />
+            <marker date="1501797981000" expanded="true" signature="6198:6371" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="6380:6439" ph=" @param AMQPReader $reader ..." />
+            <marker date="1501797981000" expanded="true" signature="6489:6537" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="6546:6607" ph=" @param string $out_of_band ..." />
+            <marker date="1501797981000" expanded="true" signature="6658:7008" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="6694:6728" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="6925:7000" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="6931:6999" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="7017:7056" ph=" @param AMQPReader $reader ..." />
+            <marker date="1501797981000" expanded="true" signature="7106:7199" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="7208:7439" ph=" Requests an access ticket ..." />
+            <marker date="1501797981000" expanded="true" signature="7626:8030" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="7709:7843" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="7946:8023" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="7952:8022" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="8040:8149" ph=" Grants access to server resources ..." />
+            <marker date="1501797981000" expanded="true" signature="8201:8307" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="8316:8639" ph=" Declares exchange ..." />
+            <marker date="1501797981000" expanded="true" signature="8904:9546" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="9089:9298" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="9396:9430" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="9460:9539" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="9466:9538" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="9556:9635" ph=" Confirms an exchange declaration ..." />
+            <marker date="1501797981000" expanded="true" signature="9689:9701" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="9710:9891" ph=" Deletes an exchange ..." />
+            <marker date="1501797981000" expanded="true" signature="10033:10506" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="10162:10259" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="10357:10391" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="10421:10499" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="10427:10498" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="10516:10602" ph=" Confirms deletion of an exchange ..." />
+            <marker date="1501797981000" expanded="true" signature="10655:10667" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="10676:10942" ph=" Binds dest exchange to source exchange ..." />
+            <marker date="1501797981000" expanded="true" signature="11128:11702" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="11310:11457" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="11555:11589" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="11619:11695" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="11625:11694" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="11712:11783" ph=" Confirms bind successful ..." />
+            <marker date="1501797981000" expanded="true" signature="11834:11846" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="11855:12120" ph=" Unbinds dest exchange from source exchange ..." />
+            <marker date="1501797981000" expanded="true" signature="12252:12778" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="12442:12589" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="12692:12770" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="12698:12769" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="12787:12867" ph=" Confirms unbind successful ..." />
+            <marker date="1501797981000" expanded="true" signature="12920:12932" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="12941:13191" ph=" Binds queue to an exchange ..." />
+            <marker date="1501797981000" expanded="true" signature="13314:13885" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="13499:13642" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="13740:13774" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="13804:13877" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="13810:13876" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="13894:13972" ph=" Confirms bind successful ..." />
+            <marker date="1501797981000" expanded="true" signature="14020:14032" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="14041:14262" ph=" Unbind queue from an exchange ..." />
+            <marker date="1501797981000" expanded="true" signature="14370:14865" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="14557:14679" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="14782:14857" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="14788:14856" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="14874:14947" ph=" Confirms unbind successful ..." />
+            <marker date="1501797981000" expanded="true" signature="14997:15009" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="15018:15328" ph=" Declares queue, creates if needed ..." />
+            <marker date="1501797981000" expanded="true" signature="15578:16193" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="15760:15948" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="16046:16080" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="16110:16186" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="16116:16185" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="16203:16308" ph=" Confirms a queue definition ..." />
+            <marker date="1501797981000" expanded="true" signature="16359:16573" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="16582:16784" ph=" Deletes a queue ..." />
+            <marker date="1501797981000" expanded="true" signature="16904:17399" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="17037:17154" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="17252:17286" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="17316:17391" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="17322:17390" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="17408:17512" ph=" Confirms deletion of a queue ..." />
+            <marker date="1501797981000" expanded="true" signature="17562:17611" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="17620:17762" ph=" Purges a queue ..." />
+            <marker date="1501797981000" expanded="true" signature="17842:18241" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="18095:18129" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="18159:18233" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="18165:18232" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="18250:18348" ph=" Confirms a queue purge ..." />
+            <marker date="1501797981000" expanded="true" signature="18397:18446" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="18455:18573" ph=" Acknowledges one or more messages ..." />
+            <marker date="1501797981000" expanded="true" signature="18639:18826" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="18835:18965" ph=" Called when the server sends a basic.ack ..." />
+            <marker date="1501797981000" expanded="true" signature="19032:19459" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="19201:19368" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="19253:19356" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="19468:19599" ph=" Called when the server sends a basic.nack ..." />
+            <marker date="1501797981000" expanded="true" signature="19656:20085" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="19825:19993" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="19877:19981" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="20094:20308" ph=" Handles the deletion of messages from this-&gt;publishedMessages and dispatches them to the $handler ..." />
+            <marker date="1501797981000" expanded="true" signature="20390:20873" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="20421:20645" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="20553:20634" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="20653:20866" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="20882:20975" ph=" @param AMQPMessage[] $messages ..." />
+            <marker date="1501797981000" expanded="true" signature="21048:21448" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="21084:21417" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="21136:21184" ph=" @param string $key ..." />
+            <marker date="1501797981000" expanded="true" signature="21236:21386" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="21288:21341" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="21457:21610" ph=" Rejects one or several received messages ..." />
+            <marker date="1501797981000" expanded="true" signature="21695:21893" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="21902:22056" ph=" Ends a queue consumer ..." />
+            <marker date="1501797981000" expanded="true" signature="22142:22569" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="22361:22456" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="22486:22561" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="22492:22560" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="22578:22679" ph=" @param AMQPReader $reader ..." />
+            <marker date="1501797981000" expanded="true" signature="22749:22831" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="22840:22944" ph=" Confirm a cancelled consumer ..." />
+            <marker date="1501797981000" expanded="true" signature="22994:23132" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="23141:23489" ph=" Starts a queue consumer ..." />
+            <marker date="1501797981000" expanded="true" signature="23767:24461" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="23894:24126" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="24234:24370" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="24275:24359" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="24281:24358" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="24471:24570" ph=" Confirms a new consumer ..." />
+            <marker date="1501797981000" expanded="true" signature="24621:24674" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="24683:24813" ph=" Notifies the client of a consumer message ..." />
+            <marker date="1501797981000" expanded="true" signature="24871:25555" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="25158:25411" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="25468:25548" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="25564:25765" ph=" Direct access to a queue if no message was available in the queue, return null ..." />
+            <marker date="1501797981000" expanded="true" signature="25843:26239" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="26099:26231" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="26105:26230" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="26248:26333" ph=" Indicates no messages available ..." />
+            <marker date="1501797981000" expanded="true" signature="26383:26395" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="26404:26550" ph=" Provides client with a message ..." />
+            <marker date="1501797981000" expanded="true" signature="26607:27148" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="26891:27114" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="27157:27325" ph=" @param string $exchange ..." />
+            <marker date="1501797981000" expanded="true" signature="27418:28428" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="27454:27610" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="27677:28371" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="27812:27962" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="28194:28361" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="28437:28659" ph=" Publishes a message ..." />
+            <marker date="1501797981000" expanded="true" signature="28848:29434" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="29022:29220" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="29267:29428" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="29444:29632" ph=" @param AMQPMessage $msg ..." />
+            <marker date="1501797981000" expanded="true" signature="29827:29883" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="29893:29947" ph=" Publish batch ..." />
+            <marker date="1501797981000" expanded="true" signature="29985:31262" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="30035:30069" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="30226:31135" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="30671:30901" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="30952:31125" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="31271:31422" ph=" Specifies QoS ..." />
+            <marker date="1501797981000" expanded="true" signature="31498:31853" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="31582:31670" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="31773:31845" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="31779:31844" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="31862:31929" ph=" Confirms QoS request ..." />
+            <marker date="1501797981000" expanded="true" signature="31976:31988" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="31997:32101" ph=" Redelivers unacknowledged messages ..." />
+            <marker date="1501797981000" expanded="true" signature="32155:32437" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="32353:32429" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="32359:32428" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="32446:32522" ph=" Confirm the requested recover ..." />
+            <marker date="1501797981000" expanded="true" signature="32573:32585" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="32594:32705" ph=" Rejects an incoming message ..." />
+            <marker date="1501797981000" expanded="true" signature="32765:32954" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="32963:33096" ph=" Returns a failed message ..." />
+            <marker date="1501797981000" expanded="true" signature="33153:33739" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="33248:33362" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="33583:33731" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="33600:33730" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="33748:33775" ph=" @return mixed ..." />
+            <marker date="1501797981000" expanded="true" signature="33809:33973" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="33893:33965" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="33899:33964" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="33982:34057" ph=" Confirms a successful commit ..." />
+            <marker date="1501797981000" expanded="true" signature="34104:34116" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="34125:34200" ph=" Rollbacks the current transaction ..." />
+            <marker date="1501797981000" expanded="true" signature="34236:34402" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="34320:34394" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="34326:34393" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="34411:34495" ph=" Confirms a successful rollback ..." />
+            <marker date="1501797981000" expanded="true" signature="34544:34556" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="34565:34762" ph=" Puts the channel into confirm mode ..." />
+            <marker date="1501797981000" expanded="true" signature="34816:35168" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="35010:35044" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="35177:35251" ph=" Confirms a selection ..." />
+            <marker date="1501797981000" expanded="true" signature="35300:35312" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="35321:35524" ph=" Waits for pending acks and nacks from the server. ..." />
+            <marker date="1501797981000" expanded="true" signature="35582:35975" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="35616:35734" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="35794:35968" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="35826:35896" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="35904:35958" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="35984:36236" ph=" Waits for pending acks, nacks and returns from the server. If there are no pending acks, the method returns immediately. ..." />
+            <marker date="1501797981000" expanded="true" signature="36302:36752" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="36336:36511" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="36571:36745" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="36603:36673" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="36681:36735" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="36761:36836" ph=" Selects standard transaction mode ..." />
+            <marker date="1501797981000" expanded="true" signature="36870:37034" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="36954:37026" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="36960:37025" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="37043:37115" ph=" Confirms transaction mode ..." />
+            <marker date="1501797981000" expanded="true" signature="37162:37174" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="37183:37241" ph=" @param array $arguments ..." />
+            <marker date="1501797981000" expanded="true" signature="37291:37364" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="37373:37424" ph=" @param int $ticket ..." />
+            <marker date="1501797981000" expanded="true" signature="37468:37549" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="37558:37744" ph=" Helper method to get a particular method from $this-&gt;publishedMessages, removes it from the array and returns it. ..." />
+            <marker date="1501797981000" expanded="true" signature="37799:37941" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="37950:38105" ph=" Sets callback for basic_return ..." />
+            <marker date="1501797981000" expanded="true" signature="38158:38483" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="38203:38425" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="38260:38413" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="38492:38693" ph=" Sets a handler which called for any message nack'ed by the server, with the AMQPMessage as first argument. ..." />
+            <marker date="1501797981000" expanded="true" signature="38743:39059" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="38788:39010" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="38845:38998" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="39068:39268" ph=" Sets a handler which called for any message ack'ed by the server, with the AMQPMessage as first argument. ..." />
+            <marker date="1501797981000" expanded="true" signature="39317:39632" ph="{...}" />
+            <marker date="1501797981000" expanded="true" signature="39362:39584" ph="..." />
+            <marker date="1501797981000" expanded="true" signature="39419:39572" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exchange-four-publish.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="24" selection-end-column="56" />
+          <folding>
+            <marker date="1514964278000" expanded="false" signature="9:45" ph=" Date: 2018/1/3 ..." />
+            <marker date="1514964278000" expanded="true" signature="102:181" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exchange-one-publish.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <marker date="1515131273000" expanded="false" signature="9:45" ph=" Date: 2018/1/3 ..." />
+            <marker date="1515131273000" expanded="true" signature="53:135" ph=" p(生产者)   ------queue--------  c消费者 ..." />
+            <marker date="1515131273000" expanded="true" signature="190:269" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exchange-one-consumer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="23" />
+          <folding>
+            <marker date="1515131405000" expanded="false" signature="9:45" ph=" Date: 2018/1/3 ..." />
+            <marker date="1515131405000" expanded="true" signature="53:145" ph=" 最简单的队列 ..." />
+            <marker date="1515131405000" expanded="false" signature="200:279" ph="..." />
+            <marker date="1515131405000" expanded="true" signature="649:695" ph="..." />
+            <marker date="1515131405000" expanded="true" signature="814:837" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exchange-three-consumer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+          <folding>
+            <marker date="1515131940000" expanded="false" signature="9:45" ph=" Date: 2018/1/3 ..." />
+            <marker date="1515131940000" expanded="false" signature="102:181" ph="..." />
+            <marker date="1515131940000" expanded="true" signature="648:685" ph="..." />
+            <marker date="1515131940000" expanded="true" signature="805:828" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exchange-three-publish.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="19" column="67" lean-forward="true" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
+          <folding>
+            <marker date="1515131662000" expanded="false" signature="9:45" ph=" Date: 2018/1/3 ..." />
+            <marker date="1515131662000" expanded="true" signature="102:181" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exchange-topic-publish.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <marker date="1515133160000" expanded="false" signature="9:45" ph=" Date: 2018/1/3 ..." />
+            <marker date="1515133160000" expanded="false" signature="102:181" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exchange-topic-consumer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="653">
+          <caret line="38" column="35" lean-forward="false" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="35" />
+          <folding>
+            <marker date="1515133160000" expanded="false" signature="9:45" ph=" Date: 2018/1/3 ..." />
+            <marker date="1515133160000" expanded="false" signature="102:181" ph="..." />
+            <marker date="1515133160000" expanded="true" signature="585:673" ph="..." />
+            <marker date="1515133160000" expanded="true" signature="715:783" ph="..." />
+            <marker date="1515133160000" expanded="true" signature="871:948" ph="..." />
+            <marker date="1515133160000" expanded="true" signature="1099:1122" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC-servier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="34" column="90" lean-forward="true" selection-start-line="33" selection-start-column="93" selection-end-line="34" selection-end-column="90" />
+          <folding>
+            <marker date="1515134021000" expanded="false" signature="9:45" ph=" Date: 2018/1/3 ..." />
+            <marker date="1515134021000" expanded="false" signature="166:245" ph="..." />
+            <marker date="1515134021000" expanded="true" signature="452:548" ph="{...}" />
+            <marker date="1515134021000" expanded="true" signature="617:961" ph="..." />
+            <marker date="1515134021000" expanded="true" signature="1119:1142" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC-client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding>
+            <marker date="1515134413000" expanded="false" signature="9:45" ph=" Date: 2018/1/3 ..." />
+            <marker date="1515134413000" expanded="true" signature="102:181" ph="..." />
+            <marker date="1515134413000" expanded="true" signature="207:1448" ph="{...}" />
+            <marker date="1515134413000" expanded="true" signature="366:762" ph="{...}" />
+            <marker date="1515134413000" expanded="true" signature="801:926" ph="{...}" />
+            <marker date="1515134413000" expanded="true" signature="868:919" ph="..." />
+            <marker date="1515134413000" expanded="true" signature="956:1446" ph="{...}" />
+            <marker date="1515134413000" expanded="true" signature="1354:1399" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding>
+            <marker date="1514948242000" expanded="true" signature="0:214" ph="{&quot;name&quot;: &quot;shuo/composer-demo&quot;...}" />
+            <marker date="1514948242000" expanded="true" signature="51:144" ph="[...]" />
+            <marker date="1514948242000" expanded="true" signature="61:138" ph="{&quot;name&quot;: &quot;李硕&quot;...}" />
+            <marker date="1514948242000" expanded="true" signature="161:212" ph="{&quot;php-amqplib/php-amqplib&quot;: &quot;&gt;=2.6.1&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
